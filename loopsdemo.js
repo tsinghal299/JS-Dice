@@ -52,6 +52,8 @@ for(let i=1,i<=10,i=i+1){
 //     console.log();
 
 //     nsp=nsp-1;
+
+// hello dunia 
 //     nst=nst+2;
     
 // }
