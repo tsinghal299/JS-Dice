@@ -53,7 +53,7 @@ for(let i=1,i<=10,i=i+1){
 
 //     nsp=nsp-1;
 
-// hello dunia 
+// hello dunia git 
 //     nst=nst+2;
     
 // }
